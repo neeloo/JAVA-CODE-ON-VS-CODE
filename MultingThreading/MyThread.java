@@ -29,11 +29,13 @@
 }
 
 //creation of thread interface in multithreading*********************
+
 class MyThread2 extends Thread{
 
     public void run(){
         for(int i=10;i>0;i--){
             System.out.println("vlue is "+i);
+            
             // using sleep method of sleep some time of opration
             try{   
                 Thread.sleep(1000);
