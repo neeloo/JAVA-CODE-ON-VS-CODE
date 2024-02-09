@@ -16,8 +16,11 @@ public class MyThreadOp {
         try{
             Thread.sleep(2000);
         }catch(Exception e){
-            
+
         }
+
+        //id of the thread
+        System.out.println(t.getId());
 
         System.out.println("End the program!!!");
     }
