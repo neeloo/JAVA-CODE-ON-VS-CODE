@@ -45,17 +45,27 @@ public class fileHandling {
 
 
         //Reading a file***********
-        File myFile=new File("filehandling");
-        try {
-            Scanner sc=new Scanner(myFile);
-             while(sc.hasNextLine()){
-                String line=sc.nextLine();
-                System.out.println(line);
+        // File myFile=new File("filehandling");
+        // try {
+        //     Scanner sc=new Scanner(myFile);
+        //      while(sc.hasNextLine()){
+        //         String line=sc.nextLine();
+        //         System.out.println(line);
 
-             }sc.close();
-        } 
-        catch (FileNotFoundException e) {
-            e.printStackTrace();
+        //      }sc.close();
+        // } 
+        // catch (FileNotFoundException e) {
+        //     e.printStackTrace();
+        // }
+
+
+        //Delete the file**************
+
+        File myFile=new File("filehandling");
+        if(myFile.delete()){
+            System.out.println("i have deleted"+myFile.getName());
+        }else{
+            System.out.println("some erroing the  are occur while delet this file");
         }
 
 
