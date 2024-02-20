@@ -1,21 +1,17 @@
-//package Generice.java;
+
+package Generice.java;
 
 import java.util.ArrayList;
 
 public class generic {
+   
    public static void main(String[] args) {
-    
-    ArrayList a=new ArrayList();
+
+   ArrayList a=new ArrayList();
+
+      a.add("str1");
 
 
-
-
-
-
-
-
-
-    
     
    } 
 }
