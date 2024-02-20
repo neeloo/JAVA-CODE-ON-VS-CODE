@@ -17,6 +17,9 @@ public class generic {
     
    } 
 }
+
+
+
 class myj<T1>{
 int val;
 private T1 t1;
