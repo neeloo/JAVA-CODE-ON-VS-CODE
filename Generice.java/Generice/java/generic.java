@@ -7,15 +7,15 @@ public class generic {
    
    public static void main(String[] args) {
 
-   ArrayList a=new ArrayList();
+   ArrayList<Integer> a=new ArrayList();
 
-      a.add("str1");
+     // a.add("str1");
       a.add(90);
       a.add(78);
       int n=(int)a.get(2);
      // System.out.println(a);
 
-     myj <String>g=new myj(55, "kl");
+     myj <String>g=new myj(55, "mystring");
 
       String s=g.getT1();
       System.out.println(s);
