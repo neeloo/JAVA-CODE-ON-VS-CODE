@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Generic",
+            "request": "launch",
+            "mainClass": "Generice.java.Generic",
+            "projectName": "JAVA CODE ON VS CODE_16e5cf08"
+        },
+        {
+            "type": "java",
+            "name": "List",
+            "request": "launch",
+            "mainClass": "List",
+            "projectName": "JAVA CODE ON VS CODE_16e5cf08"
+        },
+        {
+            "type": "java",
+            "name": "Map",
+            "request": "launch",
+            "mainClass": "Map",
+            "projectName": "JAVA CODE ON VS CODE_16e5cf08"
+        },
+        {
+            "type": "java",
+            "name": "MyThread",
+            "request": "launch",
+            "mainClass": "MyThread",
+            "projectName": "JAVA CODE ON VS CODE_16e5cf08"
+        },
+        {
+            "type": "java",
+            "name": "MyThreadOp",
+            "request": "launch",
+            "mainClass": "MyThreadOp",
+            "projectName": "JAVA CODE ON VS CODE_16e5cf08"
+        },
+        {
+            "type": "java",
+            "name": "Queue",
+            "request": "launch",
+            "mainClass": "Queue",
+            "projectName": "JAVA CODE ON VS CODE_16e5cf08"
+        },
+        {
+            "type": "java",
+            "name": "IsPrime",
+            "request": "launch",
+            "mainClass": "SCALER.IsPrime",
+            "projectName": "JAVA CODE ON VS CODE_16e5cf08"
+        },
+        {
+            "type": "java",
+            "name": "Set",
+            "request": "launch",
+            "mainClass": "Set",
+            "projectName": "JAVA CODE ON VS CODE_16e5cf08"
+        },
+        {
+            "type": "java",
+            "name": "example",
+            "request": "launch",
+            "mainClass": "example",
+            "projectName": "JAVA CODE ON VS CODE_16e5cf08"
+        },
+        {
+            "type": "java",
+            "name": "fileHandling",
+            "request": "launch",
+            "mainClass": "fileHandling",
+            "projectName": "JAVA CODE ON VS CODE_16e5cf08"
+        },
+        {
+            "type": "java",
+            "name": "trycatch",
+            "request": "launch",
+            "mainClass": "trycatch",
+            "projectName": "JAVA CODE ON VS CODE_16e5cf08"
+        },
+        {
+            "type": "java",
+            "name": "tryfinally",
+            "request": "launch",
+            "mainClass": "tryfinally",
+            "projectName": "JAVA CODE ON VS CODE_16e5cf08"
+        }
+    ]
+}
