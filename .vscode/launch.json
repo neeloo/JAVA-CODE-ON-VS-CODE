@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sumNo",
+            "request": "launch",
+            "mainClass": "SCALER.sumNo",
+            "projectName": "JAVA CODE ON VS CODE_16e5cf08"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

@@ -6,6 +6,8 @@ public class IsPrime {
         boolean ans=isPrime(n);
         System.out.println(ans);
 
+
+
         boolean result=prime(10);
         System.out.println(result);
        
@@ -34,11 +36,10 @@ public class IsPrime {
                 if(i*i==k) count++;
                 else count+=2;
             }
-            if(count==2) return true;
-            
-
+            if(count==2) return true;  
         }
         return false;
-
     }
+
+    
 }
