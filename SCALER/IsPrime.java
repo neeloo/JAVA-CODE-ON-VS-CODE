@@ -1,4 +1,4 @@
-package SCALER;
+
 
 public class IsPrime {
     public static void main(String[] args) {
