@@ -1,4 +1,4 @@
-package SCALER;
+//package SCALER;
 
 public class squreroot {
     

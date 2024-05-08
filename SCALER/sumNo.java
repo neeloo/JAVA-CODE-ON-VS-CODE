@@ -1,4 +1,4 @@
-package SCALER;
+//package SCALER;
 
 public class sumNo {
     public static void main(String[] args) {
