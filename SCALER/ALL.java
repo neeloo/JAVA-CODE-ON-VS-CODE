@@ -32,6 +32,7 @@ public class ALL {
       System.out.println(s+",");
       }
 
+      
       // convert aerraylist in string using toString()************************
       // String a = list.toString();
       // System.out.println("convert aerraylist in string using toString(): " + a);
