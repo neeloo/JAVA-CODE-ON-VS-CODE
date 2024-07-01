@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "E1",
+            "request": "launch",
+            "mainClass": "E1",
+            "projectName": "JAVA CODE ON VS CODE_16e5cf08"
+        },
+        {
+            "type": "java",
             "name": "ALL",
             "request": "launch",
             "mainClass": "ALL",
