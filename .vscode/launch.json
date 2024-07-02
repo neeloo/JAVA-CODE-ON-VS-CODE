@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "E2",
+            "request": "launch",
+            "mainClass": "otherExample.E2",
+            "projectName": "JAVA CODE ON VS CODE_16e5cf08"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "otherExample.Student",
+            "projectName": "JAVA CODE ON VS CODE_16e5cf08"
+        },
+        {
+            "type": "java",
             "name": "E1",
             "request": "launch",
             "mainClass": "E1",

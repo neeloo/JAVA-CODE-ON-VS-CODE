@@ -5,8 +5,9 @@ public class E1 {
 
     }
     public static boolean threeConsecutiveOdds(int[] arr) {
+
         StringBuilder binaryString = new StringBuilder();
-        for (int num : arr) {
+          for (int num : arr) {
             binaryString.append(num % 2);
         }
         return binaryString.toString().contains("111");
