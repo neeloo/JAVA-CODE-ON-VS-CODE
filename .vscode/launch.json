@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Revision",
+            "request": "launch",
+            "mainClass": "otherExample.Revision",
+            "projectName": "JAVA CODE ON VS CODE_16e5cf08"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "otherExample.ReverseString",
+            "projectName": "JAVA CODE ON VS CODE_16e5cf08"
+        },
+        {
+            "type": "java",
             "name": "E2",
             "request": "launch",
             "mainClass": "otherExample.E2",
