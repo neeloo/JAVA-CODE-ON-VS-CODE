@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "JAVA CODE ON VS CODE_16e5cf08"
+        },
+        {
+            "type": "java",
+            "name": "Developer",
+            "request": "launch",
+            "mainClass": "Developer",
+            "projectName": "JAVA CODE ON VS CODE_16e5cf08"
+        },
+        {
+            "type": "java",
             "name": "Revision",
             "request": "launch",
             "mainClass": "otherExample.Revision",
