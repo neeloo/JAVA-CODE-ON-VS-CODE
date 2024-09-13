@@ -6,6 +6,7 @@ interface Client {
     void output();
 }
 
+
 class Developer implements Client {
     String name;
     double salary;
